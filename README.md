@@ -1,4 +1,4 @@
-# CULT Education Games Microservice
+# CULT Wallet Reputation Microservice
 
 To ensure there is no ground for scammers the wallet reputation microservice might be helpful. 
 
